@@ -9,3 +9,10 @@ p {
   font-size: large;
   margin-top: 0%;
 }
+.userLogin {
+  display: block;
+  margin-left: 575px;
+}
+.submit {
+  margin-left: 10px;
+}
